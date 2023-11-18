@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">uy iwi</string>
+    <string name="username">username</string>
+    <string name="tizimgakirish">Тизимга кириш</string>
+    <string name="kirish">kirish</string>
+    <string name="password">password</string>
+</resources>
